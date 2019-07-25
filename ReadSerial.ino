@@ -1,3 +1,7 @@
+/*
+ * Upload this code to Arduino board
+ */
+
 int i = 0;
 
 void setup(){
