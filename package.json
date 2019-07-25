@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-serialport",
+  "version": "1.0.0",
+  "description": "Simple app Serial Port",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekaone/nodeserialport.git"
+  },
+  "author": "Eka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekaone/nodeserialport/issues"
+  },
+  "homepage": "https://github.com/ekaone/nodeserialport#readme",
+  "dependencies": {
+    "serialport": "^7.1.5"
+  }
+}
